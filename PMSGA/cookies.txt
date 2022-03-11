@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+saogoncalodoamarante.ce.gov.br	TRUE	/	FALSE	1999999999	c0c098eb9633b82ed5fe10f5405f810c	4cd024d64f5b21654062f5b548acb256
+saogoncalodoamarante.ce.gov.br	TRUE	/	FALSE	1999999999	sj_time_tpl	sj_time
+
